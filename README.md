@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on future space mission projects by building apps and/or software
 - 📫 How to reach me ...
-- On my personal free time I practice HTML, CSS, and Javascript by building a website that will convert planet earth calendar into martian calendar
+- On my personal free time I Skateboard, go on hikes practice, Paint, play with my cat and violin additionally to practice HTML, Javascript, and python by building a website that will convert planet earth calendar into martian calendar
    as a short term goal, and long term goal making an app and sofware with same convertion purpose. See my current progress on my repository "Darian-To-
    Earth Convertion" Suggestions are welcome :-) 
 
